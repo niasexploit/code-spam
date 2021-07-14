@@ -3,12 +3,12 @@
 Codespam is a spamer tool for social media, such as WhatsApp, Telegram, Facebook
 # How to Use Codespam Tool
 To use the tool you must first install pyautogui. Below is how to install pyautogui $ sudo apt install python3-pip
-# Where does this program run
+# Where does this program run?
 Facebook, Telegram, Whatsapp
 
 
-# website
+# Website
 www.hidayatcode
 
-# youtube 
+# Youtube 
 HIDAYAT CODE
