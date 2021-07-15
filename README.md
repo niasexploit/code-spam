@@ -10,7 +10,7 @@ hidayat@code:~$ git clone https://github.com/hidayat-code/codespam.py
 hidayat@code:~$ cd codespam.py
 hidayat@code:~$ python codespam.py
 ```
-
+After installing the tool, then chat with the target. And automatically this tool will run
 # Where does this program run?
 Facebook, Telegram, Whatsapp
 
